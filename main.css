@@ -1,0 +1,38 @@
+body {
+    background-color: #67776b;
+    color: #06c5ff;
+    /* color: #168FFF */
+}
+
+.display-2 {
+    color: #29c3f1;
+}
+
+.row {
+    width: 100%;
+    margin: auto;
+}
+
+.card {
+    width: 125px;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border: 6px solid black;
+   
+}
+
+.title {
+    font-size: .80rem;
+    font-weight: lighter;
+}
+.text{
+    font-size: .75rem;
+    font-weight: bolder;
+}
+
